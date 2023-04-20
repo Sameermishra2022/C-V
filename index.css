@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(238, 77, 77);
+    color: white;
+}
+*{
+      box-sizing:border-box ; 
+    
+}
+.image{
+    padding-left:525px; border-radius: 50%;
+width: 100%;padding-top: 10px;
+}
+img{
+    width: 200px;  height: 200px; border-radius: 100px;
+}
+.container{
+    width:1300px; height: 1200px;   background-color:rgb(179, 179, 208);
+    margin:62px auto;
+}
+.upper{
+    height: 300px; width: 100%;  background-color:rgba(3, 3, 43, 0.963);
+
+}
+.name{
+padding-right: 520px; float:right ;line-height: 5px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.name1{
+    padding-right:590px; float:right ;line-height: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+.lower{
+   color: rgb(21, 13, 13);margin-right: 5px;
+}
+.flex{
+    
+    padding-top: 150px;
+    float: right;
+    margin-top: -825px;
+    margin-right: 100px;
+}
+.edu{
+    padding: 40px;
+
+}
+h1{
+    font-weight:bold;
+     font-family: 'Courier New', Courier, monospace;
+}
+.ed{
+    line-height: 20px;
+    font-weight:5px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.list{
+    font-family: 'Rubik', sans-serif;
+font-weight:bold;
+letter-spacing: 1px;
+
+}
+.pi{
+    font-family: 'Rubik', sans-serif;
+    line-height: 30px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    }
+    .pii{
+        font-family: 'Rubik', sans-serif;
+        line-height: 30px;
+        font-weight: bold;
+        letter-spacing: 1px;
+    }
